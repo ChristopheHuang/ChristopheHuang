@@ -1,4 +1,4 @@
-## Hi I'm Christophe 👋
+# <- Yes, my cat. 👋
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+a+passionate+game+developer.)
 
