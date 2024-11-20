@@ -2,7 +2,11 @@
 
 I'm a passionate game developer with expertise in coding, 3D modeling, and creating immersive gaming experiences.
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)
+### Contact
+- christophe.huang75@gmail.com
+- wechat: hehexiha
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ChristopheHuang)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopheHuang)
 
