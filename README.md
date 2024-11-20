@@ -5,7 +5,6 @@ I'm a passionate game developer with expertise in coding, 3D modeling, and creat
 ### 📫Contact
 - christophe.huang75@gmail.com
 <div style="display: flex; flex-direction: row; justify-content: space-between;"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopheHuang&layout=compact&theme=github_dark" alt="Top Languages" style="width: 49%;"/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChristopheHuang&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" alt="GitHub Activity Graph" style="width: 49%;"/> </div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopheHuang) ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ChristopheHuang)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristopheHuang)
 
