@@ -1,6 +1,8 @@
 ## Hi I'm Christophe 👋
 
-I'm a passionate game developer with expertise in coding, 3D modeling, and creating immersive gaming experiences.
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm ;a ;passionate ;game ;developer;.;)
+
+I'm a passionate game developer.
 
 ### 📫Contact
 - christophe.huang75@gmail.com
