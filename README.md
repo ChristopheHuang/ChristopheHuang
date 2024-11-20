@@ -1,6 +1,5 @@
 ## Hi I'm Christophe 👋
 
-```markdown
 I'm a passionate game developer with expertise in coding, 3D modeling, and creating immersive gaming experiences.
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)
