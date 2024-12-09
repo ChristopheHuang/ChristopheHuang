@@ -1,4 +1,4 @@
-# <- Yes, my cat. 👋
+# <- Yes, It's my cat. 👋
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+a+passionate+game+developer.)
 
